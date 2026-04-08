@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WORKMYFIRM</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;font-family:sans-serif;text-align:center}
+.hero{background:#0a3d62;color:#fff;padding:60px}
+.section{padding:40px}
+.btn{background:#27ae60;color:#fff;padding:10px 20px;text-decoration:none}
+.card{background:#eee;margin:10px;padding:20px;border-radius:10px}
+.whatsapp{position:fixed;bottom:20px;right:20px;background:#25D366;color:#fff;padding:15px;border-radius:50%}
+</style>
+</head>
+<body>
+
+<div class="hero">
+<h1>WORKMYFIRM</h1>
+<p>Smart Solutions For Bold Businesses</p>
+<p>Loan | Insurance | Taxation | Investment | Marketing | HR | Real Estate</p>
+<br>
+<a href="https://wa.me/message/WWGBOBSDIHA7O1" class="btn">Get Free Consultation</a>
+</div>
+
+<div class="section">
+<h2>About Us</h2>
+<p>We provide smart business solutions across India.</p>
+</div>
+
+<div class="section">
+<h2>Services</h2>
+<div class="card">Loan</div>
+<div class="card">Insurance</div>
+<div class="card">Taxation</div>
+<div class="card">Investment</div>
+<div class="card">Marketing</div>
+<div class="card">HR</div>
+<div class="card">Real Estate</div>
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+<p>📞 9689687424</p>
+<p>📧 support@workmyfirm.com</p>
+</div>
+
+<a href="https://wa.me/message/WWGBOBSDIHA7O1" class="whatsapp">💬</a>
+
+</body>
+</html>
